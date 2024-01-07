@@ -1,0 +1,7 @@
+
+md:10263 terminated with signal 11 at PC=56422c06d200 SP=7ffe0fa00820.  Backtrace:
+./md(+0x3200)[0x56422c06d200]
+./md(+0x15d6)[0x56422c06b5d6]
+/lib/x86_64-linux-gnu/libc.so.6(+0x29d90)[0x7fa504b29d90]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_start_main+0x80)[0x7fa504b29e40]
+./md(+0x17b5)[0x56422c06b7b5]
